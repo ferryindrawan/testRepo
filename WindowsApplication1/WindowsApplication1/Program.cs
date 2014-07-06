@@ -13,6 +13,7 @@ namespace WindowsApplication1
         static void Main()
         {
             //add new comment
+            //second comment
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
